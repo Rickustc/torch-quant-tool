@@ -1,0 +1,2 @@
+import neural_compressor
+from neural_compressor.adaptor.ox_utils.quantizer import Quantizer
