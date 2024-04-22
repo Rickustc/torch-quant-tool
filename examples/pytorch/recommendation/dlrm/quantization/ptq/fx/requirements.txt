@@ -1,0 +1,7 @@
+future
+numpy
+pydot
+neural-compressor
+scikit-learn
+tqdm
+torch>=1.9.0
